@@ -1,0 +1,18 @@
+{
+  "name": "three-desert",
+  "version": "1.0.0",
+  "description": "A Twitter bot that wanders around the threedesert",
+  "main": "three-desert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Beau Gunderson <beau@beaugunderson.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bot-utilities": "^2.5.0",
+    "canvas-utilities": "^2.3.0",
+    "commander": "^2.9.0",
+    "lodash": "^4.6.1",
+    "twit": "^2.2.3"
+  }
+}
